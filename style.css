@@ -1,0 +1,13 @@
+.main{
+    width: 14%;
+    border: 2px solid black;
+     padding: 5px;
+     background-color: rgba(136, 219, 173, 0.897);
+     align-items: center;
+}
+.inp{
+    margin: 5px;
+}
+.btn{
+    margin:5px;
+}
